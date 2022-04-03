@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+<img src="https://w0.peakpx.com/wallpaper/30/645/HD-wallpaper-anime-girl-raining-are-you-still-in-pain-board-ad-windows-anime.jpg" />
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
+ <img src="https://badges.pufler.dev/visits/Kvn-GitHub/Kvn-GitHub"/> 
  <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/ritik307"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+ <img src="https://badges.pufler.dev/repos/Kvn-GitHub"/>
+ <img src="https://badges.pufler.dev/commits/monthly/Kvn-GitHub" />
 
 </p>
 
