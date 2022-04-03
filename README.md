@@ -23,14 +23,13 @@ Here are some ideas to get you started:
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/Kvn-GitHub/Kvn-GitHub"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
  <img src="https://badges.pufler.dev/repos/Kvn-GitHub"/>
  <img src="https://badges.pufler.dev/commits/monthly/Kvn-GitHub" />
 
 </p>
 
 <!-- <p align="center">
-  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
+  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
 </p>   -->
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
@@ -57,17 +56,13 @@ Here are some ideas to get you started:
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Kvn-GitHub&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kvn-GitHub&theme=radical">
-</p>
-
-<p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Kvn-GitHub&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Kvn-GitHub&theme=redical">
-</p> 
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Kvn-GitHub&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kvn-GitHub&theme=radical">
+</p>
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
 
